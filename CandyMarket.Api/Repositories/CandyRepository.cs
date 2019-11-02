@@ -17,7 +17,7 @@ namespace CandyMarket.Api.Repositories
             throw new NotImplementedException();
         }
 
-        public bool EatCandy(Guid candyIdToDelete)
+        public bool EatCandy(int candyIdToDelete)
         {
             throw new NotImplementedException();
         }
